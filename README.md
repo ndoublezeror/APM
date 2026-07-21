@@ -12,8 +12,7 @@ A modern desktop music player built with **C#** and **WinForms**. Audio Player l
 - ⏯️ Play, Pause, Next, and Previous controls
 - 📂 Playlist management
 - 🖼️ Album cover display
-- 🎤 Song title and artist information
-- 🎵 Demo songs included for testing
+- 🎤 Audio title and artist information
 - 💻 Lightweight WinForms application
 
 ---
@@ -51,7 +50,7 @@ Example:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/audio-player.git
+git clone https://github.com/yourusername/ADP.git
 ```
 
 2. Open the solution in Visual Studio.
@@ -107,7 +106,7 @@ This project is licensed under the MIT License.
 ## ⭐ Future Improvements
 
 - Improved UI/UX
-- Music library
+- Audio library
 - Audio visualizer
 - Automatic album artwork detection
 - Metadata editing
